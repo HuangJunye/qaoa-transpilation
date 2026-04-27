@@ -1,0 +1,5 @@
+networkx==3.6.1
+qiskit[visualization]==2.2
+qiskit_ibm_runtime
+qiskit_ibm_transpiler[ai-local-mode]
+qiskit_ibm_catalog
